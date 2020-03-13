@@ -77,4 +77,9 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+
+    public boolean hasProvince(City city) {
+        return false;
+
+    }
 }
